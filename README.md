@@ -1,4 +1,6 @@
-### Olá, eu sou o Guilherme Lima ✌️
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Guilherme!;" />
+</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/limagui.s/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lima-gui/)
@@ -8,13 +10,14 @@
 ![slimagui GitHub stats](https://github-readme-stats.vercel.app/api?username=slimagui&show_icons=true&theme=radical)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimagui&layout=compact)
 
-### Tecnologias que eu uso no meu dia
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,github,git,typescript" />
+</div>
 
-<div style="display: inline_black"><br/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
+<h2 align="center" >⚒️ Apaixonado por tecnologia, buscando evoluir e aprender cada vez mais. ⚒️</h2>
 
-## Apaixonado por tecnologia, buscando evoluir e aprender cada vez mais.
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+</h1>
