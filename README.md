@@ -13,7 +13,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,github,typescript" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vscode,github,typescript" />
 </div>
 
 <h2 align="center" >⚒️ Apaixonado por tecnologia, buscando evoluir e aprender cada vez mais. ⚒️</h2>
